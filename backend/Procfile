@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT sepulcrum_4493.wsgi:application

@@ -1,0 +1,3 @@
+rootProject.name = 'sepulcrum_4493'
+
+include ':app'
